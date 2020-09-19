@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/bg.png</file>
+        <file>images/new.png</file>
+        <file>images/null.png</file>
+        <file>images/play.png</file>
+        <file>images/save.png</file>
+        <file>images/select.png</file>
+        <file>images/load.png</file>
+        <file>images/p1.png</file>
+        <file>images/p2.png</file>
+        <file>images/bg_with_lines.png</file>
+        <file>images/bg_with_lines_amplified.png</file>
+        <file>images/black/bishop.png</file>
+        <file>images/black/cannon.png</file>
+        <file>images/black/guard.png</file>
+        <file>images/black/king.png</file>
+        <file>images/black/king_die.png</file>
+        <file>images/black/knight.png</file>
+        <file>images/black/pawn.png</file>
+        <file>images/black/rook.png</file>
+        <file>images/red/bishop.png</file>
+        <file>images/red/cannon.png</file>
+        <file>images/red/guard.png</file>
+        <file>images/red/king.png</file>
+        <file>images/red/king_die.png</file>
+        <file>images/red/knight.png</file>
+        <file>images/red/pawn.png</file>
+        <file>images/red/rook.png</file>
+    </qresource>
+</RCC>
